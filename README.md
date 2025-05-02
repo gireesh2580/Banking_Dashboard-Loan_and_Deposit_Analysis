@@ -30,11 +30,15 @@ The dashboard consists of three main views:
 - Reduced manual reporting effort by 30%
 - Highlighted key revenue areas such as **$2.6B in Business Lending** and **$963M in Checking Accounts**
 
-## 📁 Screenshots
+## 📁 Home page
 
 ![Home Page](https://github.com/user-attachments/assets/7c56424c-67ea-4e88-b9bb-37a469b817fe)
 
+## 📁 Loan Analysis page
+
 ![Loan Analysis Page](https://github.com/user-attachments/assets/56576482-c93e-4df3-b442-165378e71135)
+
+## 📁 Deposit Analysis page
 
 ![Deposit Analysis Page](https://github.com/user-attachments/assets/3fe9d91b-4495-4c0a-9006-4d717fb64bb0)
 
