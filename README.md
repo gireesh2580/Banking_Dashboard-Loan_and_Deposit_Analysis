@@ -32,22 +32,10 @@ The dashboard consists of three main views:
 
 ## 📁 Screenshots
 
-_Add dashboard screenshots here to visually showcase key views._
+![Home Page](https://github.com/user-attachments/assets/7c56424c-67ea-4e88-b9bb-37a469b817fe)
 
-## 📌 How to Use
+![Loan Analysis Page](https://github.com/user-attachments/assets/56576482-c93e-4df3-b442-165378e71135)
 
-1. Download the `.pbix` file (not included here).
-2. Open with Power BI Desktop.
-3. Explore tabs for Home, Loan Analysis, and Deposit Analysis.
-4. Use slicers to filter by year, gender, advisor, and banking relationship.
+![Deposit Analysis Page](https://github.com/user-attachments/assets/3fe9d91b-4495-4c0a-9006-4d717fb64bb0)
 
-## 🧠 Author
 
-**[Your Name]**  
-Data Analyst | Finance & Operations  
-📫 [YourEmail@example.com]  
-🌐 [LinkedIn/GitHub URL]
-
----
-
-> *This project is for educational and demonstration purposes only.*
